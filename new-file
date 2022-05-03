@@ -1,0 +1,6 @@
+#new file
+
+on:
+  pull_request:
+    types:
+      - opened
