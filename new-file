@@ -1,3 +1,4 @@
 #new file
 
-on: push
+on: 
+  workflow_run:
